@@ -2,7 +2,7 @@
 
 $servidor = 'localhost';
 $usuario = 'root';
-$contraseña = 'root';
+$contraseña = '';
 $base_datos = 'biblioteca';
 
 try {
